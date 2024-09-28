@@ -1,1 +1,4 @@
 Java GUI Calculator
+->Implement the basic functionality of the calculator
+->Store the previous History or calculation of the user
+->Can view the history of the calculations
